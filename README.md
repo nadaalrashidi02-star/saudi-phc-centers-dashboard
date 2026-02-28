@@ -1,119 +1,80 @@
+🇸🇦 Saudi Arabia Primary Health Care (PHC) Centers Dashboard
 
+Power BI Data Analysis Project
 
-# 🇸🇦 Saudi Arabia Primary Health Care (PHC) Centers Dashboard
+📌 Project Overview
 
-### Power BI Data Analysis Project
+This project presents an interactive Power BI dashboard analyzing Saudi Arabia’s Primary Health Care (PHC) Centers data.
 
----
+The dashboard transforms raw healthcare datasets into structured visual insights that support data-driven decision making. It provides a clear overview of workforce distribution, clinic visits, medical investigations, and patient satisfaction across different regions.
 
-## 📌 Project Overview
+Developed as part of an Information Systems course, the project demonstrates practical application of business intelligence and data visualization principles.
 
-This project presents an interactive **Power BI dashboard** analyzing Primary Health Care (PHC) Centers across Saudi Arabia.
+🎯 Project Objectives
 
-The dashboard transforms raw healthcare data into meaningful insights to support **decision-makers, managers, and stakeholders** in understanding:
+Analyze PHC workforce by region, gender, nationality, and job category
 
-* Workforce distribution
-* Clinic visits
-* Laboratory & radiology investigations
-* Patient satisfaction (2018–2020)
-* Regional comparisons
+Evaluate patient visits across various clinic types
 
-The project was developed as part of the *Fundamentals of Information Systems* course at **Imam Abdulrahman Bin Faisal University** 
+Compare laboratory tests and radiological examinations
 
----
+Examine regional healthcare distribution patterns
 
-## 🎯 Project Objectives
+Track patient satisfaction trends (2018–2020)
 
-* Analyze PHC workforce by:
+Generate data-driven insights and recommendations
 
-  * Region
-  * Gender
-  * Nationality
-  * Job category (Doctors, Nurses, Pharmacists, Allied Health)
-
-* Analyze patient visits across:
-
-  * General clinics
-  * Chronic diseases clinics
-  * Dental clinics
-  * Well-baby clinics
-  * Pregnancy clinics
-  * Other clinics
-
-* Compare:
-
-  * Laboratory tests vs Radiological examinations
-  * Regional workforce distribution
-  * Patient satisfaction over three years
-
-* Provide data-driven recommendations
-
----
-
-## 📊 Dashboard Features
+📊 Dashboard Features
 
 The interactive dashboard includes:
 
-* 📍 Regional Map Visualization
-* 📈 Clustered Column Charts
-* 🥧 Pie Charts
-* 📊 Cards & Gauges
-* 🔎 Slicers & Filters
-* 🔘 Bookmark Navigation & Buttons
-* 🧭 Multi-page interactive design (19 pages)
+Regional map visualization
 
-The design focuses on clarity, usability, and decision-support without requiring Power BI expertise 
+Clustered column charts and pie charts
 
----
+KPI cards and performance indicators
 
-## 🛠 Tools & Technologies Used
+Slicers and dynamic filters
 
-* Microsoft Power BI
-* Excel (Data Source)
-* DAX (Data Analysis Expressions)
-* Bookmarks & Page Navigation
-* Interactive Visual Design Principles
+Bookmark navigation and interactive buttons
 
----
+Multi-page structured design (19 pages)
 
-## 📂 Data Sources
+The interface was designed to be intuitive and user-friendly, allowing stakeholders to explore data without technical expertise in Power BI.
+
+🛠 Tools & Technologies
+
+Microsoft Power BI
+
+Excel (Data Source)
+
+DAX (Data Analysis Expressions)
+
+Data Modeling
+
+Interactive Visualization Design
+
+📂 Data Source
 
 Data was obtained from the Saudi Open Data Platform:
+https://od.data.gov.sa/
 
-🔗 [https://od.data.gov.sa/](https://od.data.gov.sa/) 
+The datasets include workforce distribution, patient visits, laboratory and radiology investigations, and patient satisfaction indicators.
 
-Datasets included:
+🔎 Key Insights
 
-* Workforce by region, category, and gender (2018)
-* PHC patient visits by region and nationality
-* Laboratory & radiology investigations
-* Patient satisfaction (2018–2020)
+The Central region recorded the highest workforce numbers.
 
----
+Shortage of Saudi pharmacists was identified in multiple regions.
 
-## 🔎 Key Insights
+General clinics received the highest number of visits.
 
-Some major findings include:
+Laboratory tests significantly exceeded radiological examinations.
 
-* Central region had the highest workforce numbers.
-* Shortage of Saudi pharmacists in multiple regions.
-* General clinics were the most visited.
-* Laboratory tests were significantly higher than radiological examinations.
-* Patient satisfaction trends showed variation across years.
+Patient satisfaction showed noticeable variation across years.
 
-The dashboard provides data-driven recommendations such as:
+Based on these findings, the dashboard highlights potential improvements in workforce allocation, PHC expansion, and healthcare service optimization.
 
-* Increasing Saudi pharmacists in several regions
-* Expanding PHC branches in highly populated regions
-* Enhancing laboratory capacity to improve patient experience
+📜 License
 
----
-
-
----
-
-## 📜 License
-
-Academic project – For educational and portfolio purposes.
-
---
+Academic project – Developed for educational and portfolio purposes.
